@@ -22,4 +22,10 @@ $(document).ready(function(){
       }
     )
   });
+
+  //  for (var i=1; i<6; i++){
+  //   // var clone = $('.rettangolo_verticale').clone();
+  //   $('body').append('<div class="rettangolo_verticale"></div>');
+  //   $('.rettangolo_verticale').append('<div class="quadrato"></div>');
+  // }
 });
